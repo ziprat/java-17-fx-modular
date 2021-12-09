@@ -13,7 +13,6 @@ public class CalculatorTest {
     @BeforeEach
     public void before () {
         this.c = new Calculator();
-
     }
 
     @Test
